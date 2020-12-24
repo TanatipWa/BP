@@ -1,0 +1,134 @@
+
+.box{
+    position: absolute;
+    width: 490px;
+    height: 900px;
+    left: calc(50% - 490px/2);
+    top: 0px;
+
+    background: #FFFFFF;
+    
+}
+
+
+.fulllogo{
+    position: absolute;
+    width: 490px;
+    height: 84px;
+    left: 0px;
+    top: 0px;
+
+    background: #FFFFFF;
+    
+}
+
+.logo {
+    position: absolute;
+    width: 206px;
+    height: 48px;
+    left: calc(50% - 206px/2);
+    top: 18px;
+
+/* Pink - BP */
+
+/*background: #F5678D;*/
+    
+    /* Pink - BP */
+ 
+}
+
+
+
+.logoT{
+    position: absolute;
+width: 490px;
+height: 18.22%;
+left: 27.55%;
+right: 27.35%;
+top: 164px;
+bottom: 58.33%;
+
+}
+
+.text{
+position: absolute;
+width: 282px;
+height: 47px;
+left: 104px;
+top: 415px;
+
+font-family: Sarabun;
+font-style: normal;
+font-weight: bold;
+font-size: 36px;
+line-height: 47px;
+/* identical to box height */
+
+text-align: center;
+
+/* Text2 */
+
+color: #919191;
+}
+
+.yourTicket{
+    position: absolute;
+    width: 182px;
+    height: 29px;
+    left: 154px;
+    top: 482px;
+
+    font-family: Sarabun;
+    font-style: italic;
+    font-weight: normal;
+    font-size: 22px;
+    line-height: 29px;
+    /* identical to box height */
+
+    text-align: center;
+
+    /* Text2 */
+
+    color: #919191;
+}
+
+.number{
+    position: absolute;
+    width: 222px;
+    height: 83px;
+    left: 134px;
+    top: 531px;
+
+    font-family: Sarabun;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 64px;
+    line-height: 83px;
+    text-align: center;
+
+    /* Pink - BP */
+
+    color: #F5678D;
+}
+
+.under{
+    
+position: absolute;
+width: 153px;
+height: 21px;
+left: 169px;
+top: 859px;
+
+font-family: Sarabun;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 21px;
+/* identical to box height */
+
+text-align: center;
+
+/* Pink - BP */
+
+color: #F5678D;
+}
